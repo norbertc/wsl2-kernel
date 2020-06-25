@@ -132,6 +132,3 @@ all.config
 
 # Kdevelop4
 *.kdev4
-
-# My kernel config file for WSL2
-Microsoft/config-wsl-norbertc*
